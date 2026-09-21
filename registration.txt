@@ -1,0 +1,6 @@
+Event Registration Process
+
+1. Students select the event they want to attend.
+2. Students provide their name and student ID.
+3. The registration details are recorded.
+4. A confirmation is provided to the student.
