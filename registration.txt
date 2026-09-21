@@ -1,0 +1,7 @@
+Event Registration Process
+
+1. Students select the college event they want to attend.
+2. Students enter their name, email, and student ID.
+3. The registration details are submitted.
+4. The organizer verifies the registration.
+5. A confirmation is sent to the student.
