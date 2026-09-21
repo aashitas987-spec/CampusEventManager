@@ -1,0 +1,9 @@
+Event 1
+Name: TechFest 2026
+Date: 15 October 2026
+Venue: VJTI Auditorium
+
+Event 2
+Name: Cultural Night 2026
+Date: 25 October 2026
+Venue: VJTI Quadrangle
